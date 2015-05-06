@@ -17,6 +17,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //added comment on view did load
     // Do any additional setup after loading the view, typically from a nib.
 }
 
